@@ -1,0 +1,10 @@
+.top-bar{
+    background-color: grey;
+    height: 50px;
+    padding: 7px;
+}
+
+.top-bar span{
+    font-weight: bold;
+    color: white;
+}
